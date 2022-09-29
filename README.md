@@ -8,8 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaabrielCoosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Technologies I use in my daily life
 
+### Technologies I use in my daily life
 <div sttyle="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,3 +22,4 @@
 </div><br/>
 
 ### Technology lover!
+Tireless student, always in search of knowledge
