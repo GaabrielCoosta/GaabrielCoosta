@@ -1,4 +1,4 @@
-##### Olá 👋
+# Olá 👋
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrieelandraade/)
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andrade-590a17227/)
@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaabrielCoosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technologies I use in my daily life
+### Technologies I use in my daily life
 
 <div sttyle="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,4 +21,4 @@
     
 </div><br/>
 
-# Technology lover!
+### Technology lover!
