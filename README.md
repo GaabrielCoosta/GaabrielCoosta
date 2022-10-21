@@ -11,6 +11,7 @@
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GaabrielCoosta&show_icons=true&theme=radical&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaabrielCoosta&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=GaabrielCoosta&theme=gotham&hide_border=true&area=true)
 
 ### Main skills:
