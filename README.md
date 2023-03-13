@@ -5,8 +5,10 @@
 ### 💻 Technology lover!
    *Tireless student, always in search of knowledge*
    
+   
 [![Social](https://img.shields.io/badge/-Gabriel%20Andrade-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-590a17227/)
 ![Social](https://img.shields.io/badge/-gabrielcostaandrade%40yahoo.com.br-blue?style=social&logo=yahoo&logoColor=red)
+
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GaabrielCoosta&show_icons=true&theme=radical&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
