@@ -7,7 +7,7 @@
    
    
    
-[![Social](https://img.shields.io/badge/-Gabriel%20Andrade-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-590a17227/)
+[![markdown](https://img.shields.io/badge/-Gabriel%20Andrade-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-590a17227/)
 ![Social](https://img.shields.io/badge/-gabrielcostaandrade%40yahoo.com.br-blue?style=social&logo=yahoo&logoColor=red)
 
 
