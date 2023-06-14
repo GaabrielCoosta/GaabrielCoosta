@@ -11,7 +11,6 @@
 ![Social](https://img.shields.io/badge/-gabrielcostaandrade%40yahoo.com.br-blue?style=social&logo=yahoo&logoColor=red)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GaabrielCoosta&show_icons=true&theme=react)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaabrielCoosta&hide_progress=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Skills
@@ -22,6 +21,25 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img align="center" alt="html15" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+/>
+</div>
+<br>
+<div sttyle="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
+/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+/>
 </div>
 
 ### 🔧 Tools
