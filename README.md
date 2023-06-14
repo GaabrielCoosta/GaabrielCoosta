@@ -10,13 +10,9 @@
 [![markdown](https://img.shields.io/badge/-Gabriel%20Andrade-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-590a17227/)
 ![Social](https://img.shields.io/badge/-gabrielcostaandrade%40yahoo.com.br-blue?style=social&logo=yahoo&logoColor=red)
 
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GaabrielCoosta&show_icons=true&theme=react)
 
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaabrielCoosta&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaabrielCoosta&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaabrielCoosta&hide_progress=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Skills
 <div sttyle="display: inline_block">
