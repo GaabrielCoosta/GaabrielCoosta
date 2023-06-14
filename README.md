@@ -41,6 +41,12 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
 />
 </div>
+<br>
+<div sttyle="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
+/>
 
 ### 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
