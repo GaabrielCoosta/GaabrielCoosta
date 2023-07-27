@@ -6,9 +6,9 @@
 
 *Hello! I'm a technology enthusiast with a passion for the field of data. As a technology student, I have gained solid knowledge in various areas such as development, logic, business analysis, and tools like Qlik and SQL.*
 
-*My passion for data has led me to focus my career as a Junior Consultant or Junior Data Analyst. I have a strong understanding of the fundamentals of data analysis, and I am constantly updating my skills to keep up with emerging trends.
+*My passion for data has led me to focus my career as a Junior Consultant or Junior Data Analyst. I have a strong understanding of the fundamentals of data analysis, and I am constantly updating my skills to keep up with emerging trends.*
 
-My experience in logic and business analysis has provided me with an analytical mindset and the ability to understand business needs, translating them into efficient data solutions. I have advanced skills in SQL, enabling me to extract and manipulate data with ease.*
+*My experience in logic and business analysis has provided me with an analytical mindset and the ability to understand business needs, translating them into efficient data solutions. I have advanced skills in SQL, enabling me to extract and manipulate data with ease.*
 
 *I am actively seeking opportunities to apply my knowledge and skills in a challenging environment where I can contribute to the success of data projects. I am a dedicated, curious, and motivated professional who is always eager to learn and grow.*
 
