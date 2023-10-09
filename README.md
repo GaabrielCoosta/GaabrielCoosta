@@ -4,15 +4,18 @@
 
 ###  Technology lover!
 
-*Hello! I'm a technology enthusiast with a passion for the field of data. As a technology student, I have gained solid knowledge in various areas such as development, logic, business analysis, and tools like Qlik and SQL.*
+*Over the last few years, I have delved deeply into the world of Information Technology, accumulating more than 10 years of experience in the sector and 4 years specializing in data. My purpose is to help business analysts decipher restricted insights for corporate objectives*
 
-*My passion for data has led me to focus my career as a Junior Consultant or Junior Data Analyst. I have a strong understanding of the fundamentals of data analysis, and I am constantly updating my skills to keep up with emerging trends.*
+*My interest also encompasses the innovation ecosystem, data engineering, business intelligence and the development of IoT devices. I am constantly looking for improvement and updating in the face of market developments, and I feel motivated by future opportunities.*
 
-*My experience in logic and business analysis has provided me with an analytical mindset and the ability to understand business needs, translating them into efficient data solutions. I have advanced skills in SQL, enabling me to extract and manipulate data with ease.*
+*Looking for positions in Data Analysis, Data Architecture and Business Intelligence. My goal is to employ my expertise in challenging projects, generating a significant impact on both organizations and society.*
 
-*I am actively seeking opportunities to apply my knowledge and skills in a challenging environment where I can contribute to the success of data projects. I am a dedicated, curious, and motivated professional who is always eager to learn and grow.*
+MAIN SKILLS
+Qlik Experience: *Qlik Sense® Certified Data Literacy, Qualified Data Architect, Qualified Data Analyst.*
+Business Intelligence: *Business analysis, insights, solution development and KPIs.*
+Data Development: *Data engineering, modeling, ETL, API and software development.*
+Management and Innovation: *Product management, innovation, Scrum and project management.*
 
-*If you are looking for a passionate and committed Junior Consultant or Junior Data Analyst, I am ready to contribute to your team. Let's connect and explore potential collaborations!*
 
    
    
