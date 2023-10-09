@@ -11,9 +11,13 @@
 *Looking for positions in Data Analysis, Data Architecture and Business Intelligence. My goal is to employ my expertise in challenging projects, generating a significant impact on both organizations and society.*
 
 MAIN SKILLS
+
 Qlik Experience: *Qlik Sense® Certified Data Literacy, Qualified Data Architect, Qualified Data Analyst.*
+
 Business Intelligence: *Business analysis, insights, solution development and KPIs.*
+
 Data Development: *Data engineering, modeling, ETL, API and software development.*
+
 Management and Innovation: *Product management, innovation, Scrum and project management.*
 
 
