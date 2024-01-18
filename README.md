@@ -32,9 +32,11 @@
 
 **KEY SKILLS**
 <ul>
-    <li>Digital product management</li>
+    <li>Qlik Solutions Specialist</li>
     <li>Qlik Sense and Power BI</li>
+    <li>Business Intelligence</li>
     <li>Data modeling and ETL</li>
+    <li>Data Vizualization</li>
     <li>Agile practices (Scrum)</li>
     <li>Version control with GitHub</li>
 </ul>
