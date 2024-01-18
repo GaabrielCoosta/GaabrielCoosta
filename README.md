@@ -5,7 +5,7 @@
 ###  Technology lover!
 
 
-*With over a decade immersed in the field of Information Technology, I have focused the last 4 years on the specialized area of Data Analysis. My passion lies in empowering business analysts to decode crucial insights for achieving corporate goals*
+*With over a decade immersed in the field of Information Technology, I have focused the last 5 years on the specialized area of Data Analysis. My passion lies in empowering business analysts to decode crucial insights for achieving corporate goals*
 
 *Beyond data analysis, I maintain a strong interest in the innovation ecosystem, data engineering, business intelligence, and the development of IoT devices. I am constantly up-to-date and in continuous pursuit of improvement to stay ahead of market trends, driven by the search for stimulating challenges and promising opportunities*
 
@@ -13,7 +13,7 @@
 #
 **KEY SKILLS AND KNOWLEDGE**
 
-**Expertise in Qlik:** Certification in Qlik Sense® Data Literacy, with qualifications as a Data Architect and Data Analyst, enabling a deep and practical understanding of the tool.
+**Expertise in Qlik:** Qlik Sense® Data Analytics and Literacy Certified, with qualifications as a Data Architect and Data Analyst, enabling a deep and practical understanding of the tool.
 
 **Business Intelligence:** Experience in business analysis, identifying valuable insights, developing solutions, and defining KPIs to drive business strategies.
 
@@ -23,7 +23,7 @@
 #
 **TOOLS AND TECHNOLOGIES**
 
-**BI & Data Tools:** Proficiency in Qlik Sense, QlikView, Power BI, Power Query, Microsoft Power Automate, as well as the Office suite and Windows Server.
+**BI & Data Tools:** Proficiency in Qlik Sense, Qlik Sense Data Automation, QlikView, Power BI, Power Query, Microsoft Power Automate, as well as the Office suite and Windows Server.
 
 **Cloud & Databases:** Experience with Google Cloud Platform, AWS, Azure, Oracle, Docker, and extensive knowledge in SQL & NoSQL databases.
 
