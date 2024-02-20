@@ -52,7 +52,7 @@
 <a href="https://www.linkedin.com/in/gabriel-andrade-590a17227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-andrade-590a17227" height="30" width="40" /></a>
 <a href="https://discord.gg/gabrielandrade3206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gabrielandrade3206" height="30" width="40" /></a>
 <a href="https://instagram.com/@gabrieelandraade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gabrieelandraade" height="30" width="40" /></a>
-c
+
 
 ##
 <h3 align="left">Main Stacks:</h3>
